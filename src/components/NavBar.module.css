@@ -1,0 +1,9 @@
+nav {
+  width: 1080px;
+  padding: 15px 20px;
+  background-color: #ff3b3c;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  font-size: 14px;
+}
